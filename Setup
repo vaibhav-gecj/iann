@@ -1,0 +1,8 @@
+install Anaconda
+create invirnoment            $conda create --name vaibhav
+activate invirnoment          $conda activate vaibhav
+install jupyterlab            $conda install -c conda-forge jupyterlab
+or                            $pip install jupyter lab
+install matplotlib            $pip install matplotlib
+install keras                 $pip install keras
+install tensorflow            $pip install tensor flow
